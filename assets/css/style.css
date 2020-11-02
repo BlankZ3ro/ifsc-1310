@@ -1,0 +1,63 @@
+
+/*START: background-nonspecific :START*/
+body{
+  font-family: 'times new roman', sans-serif;
+  margin:0;
+background-color:#D4CBD6; 
+}
+/*END: background-nonspecific :END*/
+/*START: specific-targeted :START*/
+h1{
+background-color:#2987D9;
+text-align:center;
+color:#ffffff;
+}
+
+ul{
+position:absolute;
+right:40%;
+}
+h2{
+position:absolute;
+bottom:60%;
+/*Gordo-Project*/    
+}
+h3.assignment-1{
+  position:absolute;
+  background-color:#2987D9;
+  bottom:50%;
+  margin:40px auto;
+}
+p.assignment-1{
+  position:absolute;
+  bottom:45%;
+}
+/*CSS-Demo*/
+h3.assignment-2{
+  position:absolute;
+  background-color:#22F0CC;
+  bottom:40%;
+}
+p.assignment-2{
+  position:absolute;
+  bottom:35%;
+}
+
+/*Positioning-Lab*/
+h3.assignment-3{
+  position:absolute;
+  background-color:#20E63E;
+  bottom:30%;
+}
+p.assignment-3{
+  position:absolute;
+  bottom:25%;
+}
+
+/*footer*/
+h6{
+position:absolute;
+right:45%;
+bottom:0%;    
+}
+/*END: specific-targeting :END*/
